@@ -1,0 +1,5 @@
+{
+  "name": "VanishChat P2P",
+  "description": "Anonymous, peer-to-peer, dark-mode chat with vanishing messages. No data stored on servers.",
+  "requestFramePermissions": []
+}
